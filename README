@@ -1,0 +1,6 @@
+O projeto consiste em desenvolver um aplicativo e módulo de controle para que,
+através de uma placa Arduino e  transmissão e recepção sem fio (Bluettoth),
+seja possível comandar uma garra mecânica em seus movimentos de translação
+horizontal, rotação vertical e movimento de pinça através de um dispositivo
+móvel (smartphone ou tablet Android).
+
